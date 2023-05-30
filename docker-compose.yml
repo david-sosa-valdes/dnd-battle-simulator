@@ -1,0 +1,7 @@
+services:
+  main:
+    container_name: dnd_main
+    build:
+      context: .
+    volumes:
+      - .:/usr/src/app
