@@ -1,4 +1,6 @@
-# DND - Battle Simulator
+# DND - Battle Simulator (beta)
+
+This is still a work in progress...
 
 ## Docker
 
